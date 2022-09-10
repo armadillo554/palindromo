@@ -13,4 +13,16 @@ public class palindromo {
         String resultado = builder.reverse().toString();
         return resultado.equals(cadena);
     }
+    public static void printRespuesta(boolean esPalindromo){
+        if(esPalindromo){
+            System.out.println("Es palindromo");
+
+        }
+        else{
+            System.out.println("No es palindromo");
+        }
+
+    }
+
+
 }
