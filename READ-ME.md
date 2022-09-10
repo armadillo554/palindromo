@@ -1,7 +1,9 @@
 Integrantes: Sebastian Aliante, Diego Navarro, Pablo Perez
 
 Palindromo 
+
 paso 1:
+
 paso 2: El método "esPalindromo", se ingresa como parametro una cadena de tipo String y retorna
 un valor de tipo Boolean.
 Este metodo comienza dejando "cadena" en minusculas,luego el método replace quita los 
