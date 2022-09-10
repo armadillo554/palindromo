@@ -1,6 +1,6 @@
 Integrantes: Sebastian Aliante, Diego Navarro, Pablo Perez
 
-Palindromo 
+Palindromo.
 
 paso 1:
 
