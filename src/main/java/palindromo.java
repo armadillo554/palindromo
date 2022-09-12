@@ -20,4 +20,16 @@ public class palindromo {
         String palabra = teclado.nextLine();
         return palabra;
     }
+    public static void printRespuesta(boolean esPalindromo){
+        if(esPalindromo){
+            System.out.println("Es palindromo");
+
+        }
+        else{
+            System.out.println("No es palindromo");
+        }
+
+    }
+
+
 }
