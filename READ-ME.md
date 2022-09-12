@@ -13,3 +13,16 @@ palabra al revés.
 Se comparan los caracteres y si son iguales retorna true, si son 
 diferentes retornará un false.
 
+
+Paso 3:
+Casos de Pruebas Unitarias a implementar:
+
+-Ingresar un numero como String
+
+-Ingresar simbolos como String
+
+-Ingresar una cadena vacia
+
+-Ingresar un numero entero
+
+
